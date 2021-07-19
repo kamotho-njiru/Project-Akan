@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# Project-Akan
+Akan, Ghanaian names that showcase our African Culture
+>>>>>>> 0e7cacae798e59887e912930613447e2fb01013f
 # Akan Name Generator
 
 > This project features a generator that derives an Akan name corresponding to the day of the week that a user was born.
@@ -19,9 +24,12 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repo
 
+<<<<<<< HEAD
 ```sh
 git clone https://github.com/kamotho-njiru/Project-Akan
 ```
+=======
+>>>>>>> 0e7cacae798e59887e912930613447e2fb01013f
 
 2. Navigate to the parent folder
 
@@ -38,9 +46,18 @@ Otherwise, enter your birthdate and gender in the form and click Generate to der
 
 ## Contact
 
+<<<<<<< HEAD
 Kamotho Njiru - [@trucktar](https://twitter.com/trucktar) - nyota.benjamin@gmail.com  
 Project Link: [https://github.com/kamotho-njiru/Project-Akan]
+=======
+Kamotho Njiru -  samuel.kamotho@student.moringaschool.com  
+Project Link: -https://github.com/kamotho-njiru/Project-Akan
+>>>>>>> 0e7cacae798e59887e912930613447e2fb01013f
 
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0e7cacae798e59887e912930613447e2fb01013f
